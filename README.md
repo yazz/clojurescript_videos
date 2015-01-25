@@ -1,15 +1,11 @@
-# clojurescript_videos
+# Clojurescript videos
 
 Introduction
 From 2012 onwards I created a series of Clojurescript/Clojure/Lighttable videos, mostly for myself, so that I could understand the ecosystem fully. I decided to share them on youtube as well in case anyone else finds them useful:
  
  
- 
- 
- 
- 
 The videos
-Episode 14 - Neo4j and Neocons
+Episode 14 - Neo4j and Neocons [https://www.youtube.com/watch?v=H94-MEXcGAs]
  
 Episode 13 - Macros again
  
